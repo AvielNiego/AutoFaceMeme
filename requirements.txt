@@ -1,0 +1,9 @@
+flask
+click==6.7
+dlib==19.13.0
+face-recognition==1.2.2
+face-recognition-models==0.3.0
+gunicorn==19.8.1
+numpy==1.14.3
+opencv-python==3.4.1.15
+Pillow==5.1.0
